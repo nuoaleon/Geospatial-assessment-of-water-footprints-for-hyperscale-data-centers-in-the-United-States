@@ -2,4 +2,4 @@
 
 
 ## Models
-* Best surrogate model for each case considered
+* The best surrogate model for each case
